@@ -1,0 +1,6 @@
+url: https://github.com/feifiefei/dsh-file-to-chat
+name: feifiefei/dsh-file-to-chat
+category: ui
+description:
+  en: 'Annotate a selection in the DSH sidebar document preview (text lines, Excel cell ranges, or a Word/PPT/PDF page) or right-click any file in the file tree, add a note, and send the quote into the current chat as a collapsible chip.'
+  zh: 在 DSH 侧边栏的文档预览里选取内容（文本行号、Excel 单元格区域、Word/PPT/PDF 页码），或在文件树里右键文件，附上批注后把引用作为可折叠胶囊发送到当前会话。
